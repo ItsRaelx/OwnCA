@@ -1,11 +1,13 @@
 configs/
 newcerts/
 private/
-*.key.pem
-*.cnf
-index.*
 serial.old
 serial
 crlnumber
 crlnumber.old
 .idea/
+index.*
+.Trash*
+*.key
+*.key.pem
+*.cnf
